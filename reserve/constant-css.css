@@ -106,13 +106,21 @@ input {
 /* ------- scroll bar --------- */
 
 ::-webkit-scrollbar {
+<<<<<<< Updated upstream
     width: 0;
     height:0;
+=======
+    width: 1px;
+>>>>>>> Stashed changes
 }
 
 ::-webkit-scrollbar-thumb {
     background-color: var(--pri_color_opac);
+<<<<<<< Updated upstream
 /*     border-radius: 5px; */
+=======
+    /* border-radius: 5px; */
+>>>>>>> Stashed changes
 }
 
 
