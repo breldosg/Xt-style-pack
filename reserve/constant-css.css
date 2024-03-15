@@ -106,12 +106,12 @@ input {
 /* ------- scroll bar --------- */
 
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 1px;
 }
 
 ::-webkit-scrollbar-thumb {
     background-color: var(--pri_color_opac);
-    border-radius: 5px;
+/*     border-radius: 5px; */
 }
 
 
